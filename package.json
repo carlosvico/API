@@ -1,7 +1,7 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "Estudo de Api",
+  "description": "Estudo de Api com Express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/carlosvico/API#readme",
   "dependencies": {
-    "express": "^4.17.2"
+  "express": "^4.17.2"
   }
 }
